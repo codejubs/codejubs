@@ -1,4 +1,4 @@
-<h3 align="center">Olá! Sou Júlia Coelho, Dev. Mobile com foco em Kotlin e Android Studio e Web Designer. </h3>
+<h3 align="center">Olá! Sou Júlia Coelho, Dev. Mobile & Design de Interfaces (Web/Mobile) </h3>
 
 ###
 
