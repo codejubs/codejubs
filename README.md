@@ -1,4 +1,4 @@
-<h3 align="center">Olá! Sou Júlia Coelho Dev. Mobile & Designer de Interfaces (Web/Mobile) </h3>
+<h3 align="center">Olá! Sou Júlia Coelho Dev. Mobile, Designer UI e Técnica de Segurança Cibernética </h3>
 
 ###
 
