@@ -10,21 +10,10 @@ Estudante de Técnico em Segurança Cibernética (SENAC) | Auditoria de Servidor
 ###
 
 ###
+<img align="right" height="150" src="https://i.pinimg.com/originals/a7/b6/81/a7b681d443e7bbfeb91411c25ce0559f.gif"  />
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/a7/b6/81/a7b681d443e7bbfeb91411c25ce0559f.gif"  />
 
-###
-###
-###
-###
-###
 
-<div align="right">
-  <a href="julia.cs1983@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/j%C3%BAliacoelhodev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+
+
 
