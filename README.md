@@ -1,4 +1,5 @@
-<h3 align="center">Olá! Sou Júlia Coelho Dev. Mobile, Designer UI e Técnica de Segurança Cibernética </h3>
+<h3 align="center">Oiê sou a Júlia Coelho | Cibersegurança & Segurança de Infraestrutura
+Estudante de Técnico em Segurança Cibernética (SENAC) | Foco em Auditoria de Servidores (Linux/Win), Hardening, Redes e Firewall.</h3>
 
 ###
 
