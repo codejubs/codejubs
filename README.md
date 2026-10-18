@@ -10,7 +10,6 @@ Estudante de Técnico em Segurança Cibernética (SENAC) | Auditoria de Servidor
 - 🛡️ **Firewalls:** Configuração de regras de filtragem de pacotes e regras de segurança com **pfSense**.
 - 🌐 **Administração de Redes:** Configuração de serviços essenciais (DHCP, DNS, roteamento e distribuição de sub-redes/IPs).
 - 🐧 **Administração Linux sem Interface Gráfica:** Gerenciamento total de servidores via linha de comando (CLI).
-- 
 ###
 
 
