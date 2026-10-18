@@ -1,8 +1,7 @@
-<h3 align="center">Oiê sou a Júlia Coelho | Cibersegurança & Segurança de Infraestrutura
-Estudante de Técnico em Segurança Cibernética (SENAC) | Auditoria de Servidores (Linux/Win), Redes e Firewall.</h3>
+<h3 align="center">Oiê sou a Júlia Coelho | Estudante de Técnico em Segurança Cibernética (SENAC) </h3>
 
 ### 
-<img align="right" height="150" src="https://i.pinimg.com/originals/a7/b6/81/a7b681d443e7bbfeb91411c25ce0559f.gif"  />
+<img align="right" height="100" src="https://i.pinimg.com/originals/a7/b6/81/a7b681d443e7bbfeb91411c25ce0559f.gif"  />
 
 ### 
 🎓 O que estou estudando no SENAC:
