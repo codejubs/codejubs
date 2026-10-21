@@ -13,7 +13,7 @@
 
 
 ### 📂 Projetos em Destaque
-- 🛡️ **[CyberFortress - Proteção Contra Ransomware](./https://github.com/codejubs/Cyberfortress-Ransomware-Defense.git)**: Projeto Integrador (SENAC) de segurança em camadas para clínica médica.
+- 🛡️ **[CyberFortress - Proteção Contra Ransomware](.[/https://github.com/codejubs/Cyberfortress-Ransomware-Defense.git](https://github.com/codejubs/codejubs.git))**: Projeto Integrador (SENAC) de segurança em camadas para clínica médica.
 - **Inclui:** dupla de firewalls pfSense, monitoramento em tempo real (Zabbix/Grafana), bloqueios e permissões no Windows Server, cópias de segurança isoladas e adequação à LGPD.
 
 
